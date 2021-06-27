@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaryMYoung13
 - 👀 I’m interested in ...Ethical Hacking/Pentesting
-- 🌱 I’m currently learning ... Python, Pearl, Ruby, HTML/CSS/Javascript, Ethical Hacking                                                                             
+- 🌱 I’m currently learning ... Python, Perl, Ruby, HTML/CSS/Javascript, Ethical Hacking                                                                             
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...liveyoungbitcoin@protonmail.com
 
